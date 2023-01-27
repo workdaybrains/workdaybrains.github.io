@@ -45,7 +45,7 @@ Select one of the options and click on the Generate XSLT button. You will see th
 
 All you have to do is create a notepad and paste the content and save it as .xslt ❤
 
-Have you wondered Why this is not Workday out-of-box? Probably the developers has huge backlog to clear :D 
+Have you wondered Why this is not Workday out-of-box? Probably the developers have huge backlog to clear :D 
 
 **One last important thing**: This tool works only on the report definition page; if you try to launch the extension on any other page, it will not work. The report must be open in read-only, not in edit mode.
 
