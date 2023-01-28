@@ -14,9 +14,9 @@ My name is B; yes, giving only a partial name. I have the following qualities:
 
 **Professional Experience?**
 
-![Crepe](https://upload.wikimedia.org/wikipedia/commons/3/36/PeopleSoft_logo.svg){: .mx-auto.d-block :}
+![PS](https://upload.wikimedia.org/wikipedia/commons/3/36/PeopleSoft_logo.svg)
 
-![Crepe](https://upload.wikimedia.org/wikipedia/commons/8/80/Workday_logo.svg){: .mx-auto.d-block :}
+![WD](https://upload.wikimedia.org/wikipedia/commons/8/80/Workday_logo.svg)
 
 - Have more than 12 years experience in IT designing and developing ERP projects `PeopleSoft, Workday`
 - Now working as `Workday Integration Consultant`, providing solutions for complex Integration requirements
