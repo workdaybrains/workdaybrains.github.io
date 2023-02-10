@@ -6,6 +6,8 @@ subtitle: Built to adapt. Again, and again.
 
 **Workday**
 
+![WD](https://media.mktg.workday.com/is/image/workday/screenshot-workday-hr-finance-planning?fmt=png-alpha&wid=1400)
+
 
 ![MagicQuadrant](assets/img/The-Magic-Quadrant-for-Cloud-HCM-Suites-for-1,000+-Employee-Enterprises-market-shows-11-providers-placed-in-either-the-Leaders,-Challengers,-Visionaries-or-Niche-Players-quadrant,-as-of-August-2022--Providers-.png)
 
@@ -21,18 +23,20 @@ A third-party implementation partner performs approximately 80% of Workday HCM d
 
 Workday Government Cloud (WGC) is FedRAMP-certified with a Moderate impact level.
 
-***Strengths***
+**Strengths**
 
-****Technology**** Despite recent and continued acquisitions, the technology stack of Workday delivers robust integration with its multiple parts. Furthermore, the “Workday Everywhere” capability delivers the option for employees and managers to interact with Workday via Microsoft Teams, Slack and Google Chrome.
+**Technology** Despite recent and continued acquisitions, the technology stack of Workday delivers robust integration with its multiple parts. Furthermore, the “Workday Everywhere” capability delivers the option for employees and managers to interact with Workday via Microsoft Teams, Slack and Google Chrome.
 
-****Talent analytics and AI**** Gartner found Workday was the highest-performing vendor for reporting, analytics and AI. High points for Workday’s reporting include the ability to analyze how attrition impacts DEI, and where potential problems could occur in locations and roles via Workday People Analytics.
+**Talent analytics and AI** Gartner found Workday was the highest-performing vendor for reporting, analytics and AI. High points for Workday’s reporting include the ability to analyze how attrition impacts DEI, and where potential problems could occur in locations and roles via Workday People Analytics.
 
-****Employee experience**** Gartner found Workday was the best-performing vendor for this capability. Differentiating features include Value Inclusion Belonging and Equity (VIBE) Index and voice of the employee sentiment analysis delivered via Workday Peakon Employee Voice.
+**Employee experience** Gartner found Workday was the best-performing vendor for this capability. Differentiating features include Value Inclusion Belonging and Equity (VIBE) Index and voice of the employee sentiment analysis delivered via Workday Peakon Employee Voice.
 
-***Cautions***
+**Cautions**
 
-****Payroll localization**** Workday currently offers payroll localized for use in the U.S., Canada, U.K., and France, which is the least of the four vendors in the Leaders quadrant of this research. However, Workday has announced plans to expand localization to include Germany and Australia, and integrates with third-party payroll providers in over 130 countries.
+**Payroll localization** Workday currently offers payroll localized for use in the U.S., Canada, U.K., and France, which is the least of the four vendors in the Leaders quadrant of this research. However, Workday has announced plans to expand localization to include Germany and Australia, and integrates with third-party payroll providers in over 130 countries.
 
-****Benefits administration**** Workday does not deliver outsourcing services as part of benefits administration, leading clients to engage third-party service providers for such services. Furthermore, Gartner has observed less evidence of investment in benefits administration when compared with other leading vendors.
+**Benefits administration** Workday does not deliver outsourcing services as part of benefits administration, leading clients to engage third-party service providers for such services. Furthermore, Gartner has observed less evidence of investment in benefits administration when compared with other leading vendors.
 
-****Total operating cost and value**** Workday remains one of the most expensive options in the market for cloud HCM suites. Furthermore, to unlock certain value such as reporting, analytics, workforce planning or employee experience, additional modules must be purchased. This makes Workday an expensive option, one that not everyone will want to pay for.
+**Total operating cost and value** Workday remains one of the most expensive options in the market for cloud HCM suites. Furthermore, to unlock certain value such as reporting, analytics, workforce planning or employee experience, additional modules must be purchased. This makes Workday an expensive option, one that not everyone will want to pay for.
+
+
