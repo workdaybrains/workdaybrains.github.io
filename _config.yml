@@ -21,6 +21,7 @@ author: BM
 
 navbar-links:
   About Me: "aboutme"
+  Why Workday: "whyworkday"
   Our Products:
     - XSLT Generator: "aboutme"
     - CAS Applications to Workday: "aboutme"
