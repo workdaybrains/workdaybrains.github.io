@@ -27,6 +27,7 @@ navbar-links:
     - CAS Applications to Workday: "aboutme"
     - EIB Filling Tool: "aboutme"
     - Workday Data Extractor: "aboutme"
+  Contact Us: "contact-us"
   # Resources:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
