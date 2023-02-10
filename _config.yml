@@ -21,6 +21,11 @@ author: BM
 
 navbar-links:
   About Me: "aboutme"
+  Our Products:
+    - XSLT Generator: "aboutme"
+    - CAS Applications to Workday: "aboutme"
+    - EIB Filling Tool: "aboutme"
+    - Workday Data Extractor: "aboutme"
   # Resources:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
